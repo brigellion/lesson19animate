@@ -1,0 +1,17 @@
+.car {
+    height: 170px;
+    width: 150px;
+    position: absolute;
+}
+.car1 {
+    height: 170px;
+    width: 150px;
+    padding-top: 90px;
+    position: absolute;
+}
+.car2 {
+    height: 170px;
+    width: 150px;
+    padding-top: 180px;
+    position: absolute;
+}
